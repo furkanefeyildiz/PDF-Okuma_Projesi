@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.36227.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDF_OkumaProjesi", "PDF_OkumaProjesi.csproj", "{B2A668BE-23A3-4AB0-BB46-4FB6C7E1B4EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2A668BE-23A3-4AB0-BB46-4FB6C7E1B4EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2A668BE-23A3-4AB0-BB46-4FB6C7E1B4EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2A668BE-23A3-4AB0-BB46-4FB6C7E1B4EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2A668BE-23A3-4AB0-BB46-4FB6C7E1B4EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {571011CC-84BC-4521-9BDA-26A7D2908D45}
+	EndGlobalSection
+EndGlobal
