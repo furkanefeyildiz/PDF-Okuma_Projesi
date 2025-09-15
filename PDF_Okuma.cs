@@ -21,7 +21,7 @@ namespace PDF_OkumaProjesi
             InitializeComponent();
         }
 
-        OracleConnection con = new OracleConnection(@"Data Source=10.219.222.38:1521/MARSHDB;Persist Security Info=True;User ID=RAPOR;Password=****;");
+        OracleConnection con = new OracleConnection(@"Data Source=10.219.222.38:1521/MARSHDB;Persist Security Info=True;User ID=RAPOR;Password=*****;");
         private void btnSelectPDF_Click(object sender, EventArgs e)
         {
 
@@ -1260,4 +1260,5 @@ namespace PDF_OkumaProjesi
 
 
 }
+
 
